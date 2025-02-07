@@ -1,0 +1,895 @@
+{
+    "header": {
+        "gtfsRealtimeVersion": "2.0",
+        "incrementality": "FULL_DATASET",
+        "timestamp": "1693194670"
+    },
+    "entity": [
+        {
+            "id": "TU-25602154-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25602154-BT 23_24-34267",
+                    "routeId": "29-3195",
+                    "startTime": "14:35:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1511"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 5,
+                        "stopId": "1878",
+                        "arrival": {
+                            "delay": -25,
+                            "time": "1693197755",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693197840",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194474"
+            }
+        },
+        {
+            "id": "TU-25601728-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601728-BT 23_24-34267",
+                    "routeId": "29-3195",
+                    "startTime": "13:45:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1838"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 5,
+                        "stopId": "1878",
+                        "arrival": {
+                            "delay": 13,
+                            "time": "1693194793",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693194840",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194629"
+            }
+        },
+        {
+            "id": "TU-25602064-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25602064-BT 23_24-34267",
+                    "routeId": "29-3195",
+                    "startTime": "14:25:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5123"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 5,
+                        "stopId": "1878",
+                        "arrival": {
+                            "delay": -25,
+                            "time": "1693197155",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693197240",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194084"
+            }
+        },
+        {
+            "id": "TU-25601984-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601984-BT 23_24-34267",
+                    "routeId": "29-3195",
+                    "startTime": "14:15:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1838"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 5,
+                        "stopId": "1878",
+                        "arrival": {
+                            "delay": -25,
+                            "time": "1693196555",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693196640",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693193484"
+            }
+        },
+        {
+            "id": "TU-25601810-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601810-BT 23_24-34267",
+                    "routeId": "29-3195",
+                    "startTime": "13:55:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5123"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 5,
+                        "stopId": "1878",
+                        "arrival": {
+                            "delay": -25,
+                            "time": "1693195355",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693195440",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194639"
+            }
+        },
+        {
+            "id": "TU-25601613-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601613-BT 23_24-34267",
+                    "routeId": "192-3195",
+                    "startTime": "13:30:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1987"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 29,
+                        "stopId": "1947",
+                        "arrival": {
+                            "delay": 79,
+                            "time": "1693195159",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 79,
+                            "time": "1693195159",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194651"
+            }
+        },
+        {
+            "id": "TU-25601852-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601852-BT 23_24-34267",
+                    "routeId": "192-3195",
+                    "startTime": "14:00:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_2016"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 29,
+                        "stopId": "1947",
+                        "arrival": {
+                            "delay": 104,
+                            "time": "1693196984",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 104,
+                            "time": "1693196984",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194658"
+            }
+        },
+        {
+            "id": "TU-25601560-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601560-BT 23_24-34267",
+                    "routeId": "66-3195",
+                    "startTime": "13:28:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5100"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 13,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 343,
+                            "time": "1693195003",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 343,
+                            "time": "1693195003",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194534"
+            }
+        },
+        {
+            "id": "TU-25601641-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601641-BT 23_24-34267",
+                    "routeId": "66-3195",
+                    "startTime": "13:38:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1647"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 13,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 196,
+                            "time": "1693195456",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 196,
+                            "time": "1693195456",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194646"
+            }
+        },
+        {
+            "id": "TU-25601687-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601687-BT 23_24-34267",
+                    "routeId": "209-3195",
+                    "startTime": "13:39:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5027"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 11,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 442,
+                            "time": "1693195642",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 442,
+                            "time": "1693195642",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194614"
+            }
+        },
+        {
+            "id": "TU-25601934-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601934-BT 23_24-34267",
+                    "routeId": "209-3195",
+                    "startTime": "14:09:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5152"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 11,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": -83,
+                            "time": "1693197037",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": -83,
+                            "time": "1693197037",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194504"
+            }
+        },
+        {
+            "id": "TU-25601571-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601571-BT 23_24-34267",
+                    "routeId": "209-3195",
+                    "startTime": "13:24:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5021"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 11,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 289,
+                            "time": "1693194589",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 401,
+                            "time": "1693194701",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194655"
+            }
+        },
+        {
+            "id": "TU-25601808-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601808-BT 23_24-34267",
+                    "routeId": "209-3195",
+                    "startTime": "13:54:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1901"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 11,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 37,
+                            "time": "1693196137",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 37,
+                            "time": "1693196137",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194641"
+            }
+        },
+        {
+            "id": "TU-25601793-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601793-BT 23_24-34267",
+                    "routeId": "66-3195",
+                    "startTime": "13:58:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1638"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 13,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 37,
+                            "time": "1693196497",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 37,
+                            "time": "1693196497",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194656"
+            }
+        },
+        {
+            "id": "TU-25606655-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25606655-BT 23_24-34267",
+                    "routeId": "169-3195",
+                    "startTime": "14:10:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1626"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 10,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 165,
+                            "time": "1693196865",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 165,
+                            "time": "1693196865",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194384"
+            }
+        },
+        {
+            "id": "TU-25606654-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25606654-BT 23_24-34267",
+                    "routeId": "169-3195",
+                    "startTime": "13:55:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1627"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 10,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 165,
+                            "time": "1693195965",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 165,
+                            "time": "1693195965",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194640"
+            }
+        },
+        {
+            "id": "TU-25601900-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601900-BT 23_24-34267",
+                    "routeId": "29-3195",
+                    "startTime": "14:05:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1511"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 5,
+                        "stopId": "1878",
+                        "arrival": {
+                            "delay": -25,
+                            "time": "1693195955",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693196040",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693192884"
+            }
+        },
+        {
+            "id": "TU-25606683-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25606683-BT 23_24-34267",
+                    "routeId": "169-3195",
+                    "startTime": "14:32:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5048"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 1,
+                        "stopId": "1853",
+                        "departure": {
+                            "delay": 0,
+                            "time": "1693197120",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194660"
+            }
+        },
+        {
+            "id": "TU-25602051-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25602051-BT 23_24-34267",
+                    "routeId": "66-3195",
+                    "startTime": "14:24:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1633"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 13,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": -203,
+                            "time": "1693198057",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": -203,
+                            "time": "1693198057",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194654"
+            }
+        },
+        {
+            "id": "TU-25601718-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601718-BT 23_24-34267",
+                    "routeId": "66-3195",
+                    "startTime": "13:48:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1634"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 13,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 121,
+                            "time": "1693195981",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 121,
+                            "time": "1693195981",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194649"
+            }
+        },
+        {
+            "id": "TU-25606653-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25606653-BT 23_24-34267",
+                    "routeId": "169-3195",
+                    "startTime": "13:40:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5130"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 10,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 205,
+                            "time": "1693195105",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 205,
+                            "time": "1693195105",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194640"
+            }
+        },
+        {
+            "id": "TU-25606656-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25606656-BT 23_24-34267",
+                    "routeId": "169-3195",
+                    "startTime": "14:25:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5130"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 10,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 165,
+                            "time": "1693197765",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 165,
+                            "time": "1693197765",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194654"
+            }
+        },
+        {
+            "id": "TU-25601993-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601993-BT 23_24-34267",
+                    "routeId": "139-3195",
+                    "startTime": "14:19:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5101"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 2,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 52,
+                            "time": "1693196452",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 52,
+                            "time": "1693196452",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194648"
+            }
+        },
+        {
+            "id": "TU-25601841-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601841-BT 23_24-34267",
+                    "routeId": "139-3195",
+                    "startTime": "13:57:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5109"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 18,
+                        "stopId": "1882",
+                        "arrival": {
+                            "delay": -205,
+                            "time": "1693196795",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": -205,
+                            "time": "1693196795",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194654"
+            }
+        },
+        {
+            "id": "TU-25602250-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25602250-BT 23_24-34267",
+                    "routeId": "139-3195",
+                    "startTime": "14:49:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5091"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 2,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 52,
+                            "time": "1693198252",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 52,
+                            "time": "1693198252",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194652"
+            }
+        },
+        {
+            "id": "TU-25601572-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601572-BT 23_24-34267",
+                    "routeId": "139-3195",
+                    "startTime": "13:24:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_1607"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 18,
+                        "stopId": "1882",
+                        "arrival": {
+                            "delay": -23,
+                            "time": "1693194997",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": -23,
+                            "time": "1693194997",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194656"
+            }
+        },
+        {
+            "id": "TU-25601738-BT 23_24-34267",
+            "tripUpdate": {
+                "trip": {
+                    "tripId": "25601738-BT 23_24-34267",
+                    "routeId": "139-3195",
+                    "startTime": "13:49:00",
+                    "startDate": "20230828",
+                    "scheduleRelationship": "SCHEDULED"
+                },
+                "vehicle": {
+                    "id": "A7393ED51E387246BB3D6249943091E8_5146"
+                },
+                "stopTimeUpdate": [
+                    {
+                        "stopSequence": 2,
+                        "stopId": "1853",
+                        "arrival": {
+                            "delay": 52,
+                            "time": "1693194652",
+                            "uncertainty": 30
+                        },
+                        "departure": {
+                            "delay": 101,
+                            "time": "1693194701",
+                            "uncertainty": 30
+                        },
+                        "scheduleRelationship": "SCHEDULED"
+                    }
+                ],
+                "timestamp": "1693194634"
+            }
+        }
+    ]
+}
